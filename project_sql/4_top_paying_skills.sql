@@ -24,10 +24,10 @@ LIMIT 25;
 
 /*
 Key Insights:
-- High-paying Data Analyst roles favor expertise in Big Data and Machine Learning, with skills such as PySpark, Couchbase, DataRobot, and Jupyter commanding top salaries. This reflects the growing industry demand for advanced data processing and predictive analytics.
-- Proficiency in software development and deployment tools like GitLab, Kubernetes, and Airflow indicates a lucrative crossover between data analysis and data engineering, where automation and efficient data pipeline management are highly valued.
-- Cloud computing expertise, particularly in Elasticsearch, Databricks, and GCP, highlights the increasing reliance on cloud-based analytics and infrastructure, making cloud proficiency a key differentiator for higher salaries.
-- The demand for Python-based libraries such as Pandas, NumPy, and Scikit-learn suggests that knowledge in statistical computing and machine learning frameworks significantly enhances earning potential.
+- Big Data & Machine Learning Expertise: High-paying Data Analyst roles prioritize skills in big data technologies (PySpark, Couchbase) and machine learning tools (DataRobot, Jupyter). The demand for Python-based libraries like Pandas highlights the industry's emphasis on data processing and predictive modeling.
+- Software Development & Automation: Skills in GitLab and Bitbucket suggest a strong crossover between data analysis and engineering, where automation, version control, and efficient data pipeline management play a crucial role in commanding higher salaries.
+- Cloud & Data Engineering Specialization: The presence of Elasticsearch and Databricks reinforces the growing reliance on cloud-based analytics and database management, indicating that cloud computing proficiency is a key driver of higher earnings.
+- Technical Versatility Matters: The mix of big data, machine learning, cloud computing, and development tools reflects the industry's shift toward a more integrated approach to data analytics, requiring both analytical and engineering capabilities.
 
 RESULTS
 =======

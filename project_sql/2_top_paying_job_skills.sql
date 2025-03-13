@@ -36,11 +36,11 @@ ORDER BY
 
 /*
 Key Insights:
-- SQL is the most in-demand skill among the top 10 highest-paying Data Analyst jobs, appearing in multiple job postings.
-- Python follows closely, reinforcing its importance in data analysis, automation, and machine learning.
+- SQL is the most required skill among the top 10 highest-paying Data Analyst jobs, appearing in multiple job postings.
+- Python follows closely, highlighting its importance in data analysis, automation, and machine learning.
 - Tableau is a key tool for data visualization, frequently appearing in high-paying roles.
-- Other notable skills include R, Azure, Snowflake, Pandas, Excel, and Power BI, indicating that a combination of programming, cloud platforms, and data visualization tools is crucial for top-tier Data Analyst roles.
-- A strong blend of programming skills (SQL, Python, R) and business intelligence tools (Tableau, Power BI, Excel) is essential for securing high-paying opportunities.
+- Other notable skills include R, Snowflake, Pandas, and Excel, showing that a mix of programming, cloud platforms, and business intelligence tools is essential for top-tier Data Analyst roles.
+- A strong combination of programming skills (SQL, Python, R) and BI tools (Tableau, Power BI, Excel) is crucial for landing high-paying opportunities in data analytics.
 
 RESULTS
 =======
