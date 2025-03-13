@@ -116,7 +116,7 @@ ORDER BY
 
 
 
-![Top-Paying Skills Chart](assets\2_top_paying_job_skills.png)  
+![Top-Paying Skills Chart](assets/2_top_paying_job_skills.png)  
 *Bar chart visualizing the frequency of required skills for the top 10 highest-paying data analyst jobs. ChatGPT generated this graph from my SQL query results.*
 
 ---
