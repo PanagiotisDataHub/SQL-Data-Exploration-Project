@@ -5,7 +5,7 @@ Exploring the data job market! This project focuses on **data analyst roles**, u
 
 📂 **SQL queries?** Find them here: [project_sql folder](/project_sql/).  
 
----  
+---
 
 ## Background  
 This project was created to **analyze key trends** in the **data analyst job market**—which roles pay the most, which skills are most in demand, and which skills contribute to the **highest earnings**. The goal is to provide **valuable insights for job seekers and professionals** looking to **strategically develop their careers**.  
